@@ -114,6 +114,34 @@ recipe-manager/
 - Unit tests
 - Docker configuration
 
-## License
+## 🎥 Demo Video
 
-MIT
+ ![Click here to watch the demo video](./Recipedia_asset/demo.mp4)
+
+## 📸 Output
+
+Here are some screenshots of the application:
+
+### 🏠 Home Page
+
+![Home Page](./Recipedia_asset/home.png)
+
+### 🍲 Recipe Page
+
+![Recipe Page](./Recipedia_asset/recipe.png)
+
+### 🍲 Recipe Detail Page
+
+![Recipe Page](./Recipedia_asset/detail.png)
+
+### 🍲 Create new recipe page
+
+![Recipe Page](./Recipedia_asset/create_new.png)
+
+![Recipe Page](./Recipedia_asset/create_neww.png)
+
+### 🍲 Footer Page
+
+![Recipe Page](./Recipedia_asset/footer.png)
+
+
